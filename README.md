@@ -74,10 +74,10 @@ Etapa 2: Teste do MVP Funcional: Descreva como testar o MVP com um pequeno grupo
 
 O grande diferencial dele é a interface de conversa (chat). Em vez de preencher formulários, o usuário simplesmente "conversa" com um assistente virtual para:
 
-Registrar gastos: (Ex: "Gastei R$ 50 no supermercado hoje.")
+1. Registrar gastos: (Ex: "Gastei R$ 50 no supermercado hoje.")
 
-Classificar despesas: O app entende a frase e classifica o gasto automaticamente (ex: "Alimentação").
+2. Classificar despesas: O app entende a frase e classifica o gasto automaticamente (ex: "Alimentação").
 
-Definir metas: (Ex: "Quero gastar no máximo R$ 300 com iFood este mês.")
+3. Definir metas: (Ex: "Quero gastar no máximo R$ 300 com iFood este mês.")
 
-Visualizar relatórios: O usuário pode perguntar "Como estou esse mês?" e receber um resumo simples e gráficos de seus gastos.
+4. Visualizar relatórios: O usuário pode perguntar "Como estou esse mês?" e receber um resumo simples e gráficos de seus gastos.
